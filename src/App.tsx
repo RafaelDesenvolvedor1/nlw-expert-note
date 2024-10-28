@@ -5,7 +5,7 @@
 import {Card} from './Componentes/Card'
 
 import * as Dialog from '@radix-ui/react-dialog'
-import {Search, X} from 'lucide-react'
+import { X} from 'lucide-react'
 import { ChangeEvent, FormEvent, useState } from 'react'
 import { toast } from 'sonner'
 
